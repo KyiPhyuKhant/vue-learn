@@ -1,3 +1,5 @@
+This repository will contain my Vue.js learning projects from 'Vue.js 3 Tutorial' by The Net Ninja. crd: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
+
 # vue-learn
 
 ## Project setup
